@@ -23,3 +23,28 @@ La base de operaciones está situada en un viejo almacén industrial en Avilés,
 ¿Podréis mantener a salvo la región, organizar vuestro equipo de caza fantasmas y planificar estrategias para enfrentaros a los espectros más peligrosos?
 
 ## Asturias cuenta con vosotros
+
+## Organización del Proyecto
+
+Este proyecto se ha realizado en **un sprint** de 5 días. Utilizamos **Jira** para planificar y gestionar el trabajo en equipo.
+
+## Herramientas
+
+* **Java 21 SE**
+* **MAVEN**
+* **VSCode**
+* **GitHub**
+
+## Entregables
+
+* Repositorio en GitHub.
+
+* Diagrama UML de arquitectura.
+ ![UML PROYECTOGHOSTBUSTERS](https://github.com/AnaBHernandez/Proyecto-GhostBusters/blob/main/proyecto-cazafantasmas/src/resources/UML%20Proyecto%20Cazafantasmas.jpg)
+
+## Colaboradores
+
+Puedes ver los perfiles de GitHub del equipo desarrollador a continuación:
+
+* [Ana B. Hernandez](https://github.com/AnaBHernandez)
+* [Naudelyn Lucena](https://github.com/NaudelynLucena)
